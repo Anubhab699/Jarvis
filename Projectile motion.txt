@@ -1,0 +1,4 @@
+PROJECTILE MOTION
+TIME OF FLIGHT= 2u sintheta /g.
+maximum height=u^2 sin^2theta/2g.
+range=u^2 2sinthetacostheta/g. OR R= u^22Sintheta/g
